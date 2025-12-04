@@ -1,7 +1,10 @@
 nav:
   - Home: index.md
-  - Journal: /journal/
-  - Projektplanung: /projektplanung/
+  - Journal:
+      - Journal Fee: journal/fee
+      - Journal Stefan: journal/stefan
+      - Journal Yanis: journal/yanis
+  - Projektplanung: projektplanung/
   - Scrum:
       - Product Vision: scrum/vision
       - Definition of Done: scrum/dod
