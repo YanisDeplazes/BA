@@ -2,7 +2,7 @@
 
 Anbei ist der Überblick der wichtigsten Daten für die Bachelorarbeit.
 
-Die detailierte Projektplanung findet man als [GitHub Projekt](https://github.com/users/YanisDeplazes/projects/5/views/1)
+Die detailierte Projektplanung findet man als [GitHub Projekt](https://github.com/users/YanisDeplazes/projects/5/views/2)
 
 Als WEBCAL abonnieren: `webcal://p33-caldav.icloud.com/published/2/MjAyNDc4NjAwMTIwMjQ3OMv1OfgR57hCNyLmlro_qmMw8uW_HIkLyW1nJqVj4t-nr61QzHbX31nTYdgf6AW1s2RgEWcVZy4GB4VkTjCTRGc`
 
