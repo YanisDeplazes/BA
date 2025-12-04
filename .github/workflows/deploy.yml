@@ -28,9 +28,6 @@ jobs:
       - name: Build MkDocs site
         run: mkdocs build --site-dir public
 
-      - name: Add CNAME for custom domain
-        run: echo "<NAME>.yanis.io" > public/CNAME # Change name of domain
-
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
